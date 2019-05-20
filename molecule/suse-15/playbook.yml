@@ -31,7 +31,7 @@
     - role: minikube
     - role: kubernetes-addon-manager
     - role: kubernetes-flannel
-    - role: kubernetes-dashboard
+    - role: kubernetes-registry
 
   post_tasks:
     - name: kubectl version
