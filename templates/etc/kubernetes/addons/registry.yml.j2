@@ -39,7 +39,6 @@ spec:
     spec:
       containers:
         - image: {{ registry_image_repository }}/registry:{{ registry_version }}
-          imagePullPolicy: IfNotPresent
           name: registry
           ports:
             - containerPort: 5000
