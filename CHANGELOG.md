@@ -4,6 +4,8 @@
 
 ### Major Changes
 
+  - Migrate molecule tests to Libvir
+
 ## 4.1.0 - 2020-01-16
 
 ### Major Changes
