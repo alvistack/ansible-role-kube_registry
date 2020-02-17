@@ -1,8 +1,8 @@
 # Ansible Role for Docker Registry on Kubernetes
 
-[![Travis](https://img.shields.io/travis/alvistack/ansible-role-kubernetes-registry.svg)](https://travis-ci.org/alvistack/ansible-role-kubernetes-registry)
-[![GitHub release](https://img.shields.io/github/release/alvistack/ansible-role-kubernetes-registry.svg)](https://github.com/alvistack/ansible-role-kubernetes-registry)
-[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-kubernetes-registry.svg)](https://github.com/alvistack/ansible-role-kubernetes-registry/blob/master/LICENSE)
+[![Travis](https://img.shields.io/travis/alvistack/ansible-role-kubernetes_registry.svg)](https://travis-ci.org/alvistack/ansible-role-kubernetes_registry)
+[![GitHub release](https://img.shields.io/github/release/alvistack/ansible-role-kubernetes_registry.svg)](https://github.com/alvistack/ansible-role-kubernetes_registry)
+[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-kubernetes_registry.svg)](https://github.com/alvistack/ansible-role-kubernetes_registry/blob/master/LICENSE)
 [![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.kubernetes_registry-blue.svg)](https://galaxy.ansible.com/alvistack/kubernetes_registry)
 
 Ansible Role for Docker Registry on Kubernetes Installation.
