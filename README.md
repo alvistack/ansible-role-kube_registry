@@ -1,6 +1,6 @@
 # Ansible Role for Docker Registry on Kubernetes
 
-[![Travis](https://img.shields.io/travis/com/alvistack/ansible-role-kubernetes_registry.svg)](https://travis-ci.com/alvistack/ansible-role-kubernetes_registry)
+[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-kubernetes_registry/master)](https://gitlab.com/alvistack/ansible-role-kubernetes_registry/-/pipelines)
 [![GitHub release](https://img.shields.io/github/release/alvistack/ansible-role-kubernetes_registry.svg)](https://github.com/alvistack/ansible-role-kubernetes_registry/releases)
 [![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-kubernetes_registry.svg)](https://github.com/alvistack/ansible-role-kubernetes_registry/blob/master/LICENSE)
 [![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.kubernetes_registry-blue.svg)](https://galaxy.ansible.com/alvistack/kubernetes_registry)
@@ -13,11 +13,11 @@ This role require Ansible 2.10 or higher.
 
 This role was designed for:
 
-  - Ubuntu 18.04/20.04
+  - Ubuntu 18.04/20.04/20.10
   - RHEL/CentOS 7/8
   - openSUSE Leap 15.2
   - Debian 10
-  - Fedora 32
+  - Fedora 33
 
 ## Role Variables
 
