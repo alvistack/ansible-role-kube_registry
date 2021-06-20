@@ -13,9 +13,3 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-
-# Dashboard version.
-registry_version: "2.7.1"
-
-# ImageRepository sets the container registry to pull images from.
-registry_image_repository: "docker.io"
