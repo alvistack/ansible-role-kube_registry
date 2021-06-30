@@ -9,7 +9,7 @@ Ansible Role for Docker Registry on Kubernetes Installation.
 
 ## Requirements
 
-This role require Ansible community package 4.1 or higher.
+This role require Ansible community package 4.2 or higher.
 
 This role was designed for:
 
