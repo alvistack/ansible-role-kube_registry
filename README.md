@@ -1,6 +1,9 @@
 # Ansible Role for Docker Registry on Kubernetes
 
-[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-kube_registry/master)](https://gitlab.com/alvistack/ansible-role-kube_registry/-/pipelines) [![GitHub release](https://img.shields.io/github/release/alvistack/ansible-role-kube_registry.svg)](https://github.com/alvistack/ansible-role-kube_registry/releases) [![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-kube_registry.svg)](https://github.com/alvistack/ansible-role-kube_registry/blob/master/LICENSE) [![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.kube_registry-blue.svg)](https://galaxy.ansible.com/alvistack/kube_registry)
+[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-kube_registry/master)](https://gitlab.com/alvistack/ansible-role-kube_registry/-/pipelines)
+[![GitHub release](https://img.shields.io/github/release/alvistack/ansible-role-kube_registry.svg)](https://github.com/alvistack/ansible-role-kube_registry/releases)
+[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-kube_registry.svg)](https://github.com/alvistack/ansible-role-kube_registry/blob/master/LICENSE)
+[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.kube_registry-blue.svg)](https://galaxy.ansible.com/alvistack/kube_registry)
 
 Ansible Role for Docker Registry on Kubernetes Installation.
 
