@@ -16,7 +16,7 @@
 
 galaxy_info:
   namespace: alvistack
-  role_name: kubernetes_registry
+  role_name: kube_registry
   author: "Wong Hoi Sing Edison <hswong3i@pantarei-design.com>"
   description: Ansible Role for Docker Registry on Kubernetes Installation
   company: PantaRei Design
